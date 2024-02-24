@@ -1,0 +1,7 @@
+{
+  "name": "Smithy",
+  "version": "0.0.1",
+  "authors": ["Josh Rutkowski <joshrutk@amazon.com>"],
+  "description": "Smithy language support for Zed",
+  "repository": "https://github.com/joshrutkowski/zed-smithy"
+}
